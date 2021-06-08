@@ -1,2 +1,4 @@
 # karaoke-p3
-Karaoke 
+
+Karaoke
+cool shit
